@@ -1,0 +1,52 @@
+2021-03-18 09:53:59,607 - werkzeug - INFO -  * Running on http://0.0.0.0:32666/ (Press CTRL+C to quit)
+2021-03-18 09:54:58,036 - root - INFO - Get the request <Request 'http://10.74.150.75:32666/ai/room/ocr' [POST]>
+2021-03-18 09:54:58,036 - root - INFO - json_data 
+2021-03-18 09:54:58,073 - root - INFO - Decode request image and save !
+2021-03-18 09:54:58,083 - root - INFO - predict image
+2021-03-18 09:54:58,564 - root - INFO - Extract red region num is {}
+2021-03-18 09:54:58,564 - root - INFO - result {'code': 'E000', 'success': True, 'message': 'success', 'data': []}
+2021-03-18 09:54:58,565 - werkzeug - INFO - 10.74.150.75 - - [18/Mar/2021 09:54:58] "[37mPOST /ai/room/ocr HTTP/1.1[0m" 200 -
+2021-03-18 09:59:28,615 - werkzeug - INFO -  * Running on http://0.0.0.0:32666/ (Press CTRL+C to quit)
+2021-03-18 09:59:39,996 - root - INFO - Get the request <Request 'http://10.74.150.75:32666/ai/room/ocr' [POST]>
+2021-03-18 09:59:39,996 - root - INFO - json_data 
+2021-03-18 09:59:40,013 - root - INFO - Decode request image and save !
+2021-03-18 09:59:40,022 - root - INFO - predict image
+2021-03-18 09:59:40,474 - root - INFO - Extract red region num is ÖÐÉ½ÄÏÂ·88ºÅ
+2021-03-18 09:59:40,474 - root - INFO - result {'code': 'E000', 'success': True, 'message': 'success', 'data': {'content': 'ÖÐÉ½ÄÏÂ·88ºÅ'}}
+2021-03-18 09:59:40,475 - werkzeug - INFO - 10.74.150.75 - - [18/Mar/2021 09:59:40] "[37mPOST /ai/room/ocr HTTP/1.1[0m" 200 -
+2021-03-18 10:00:04,746 - root - INFO - Get the request <Request 'http://10.74.150.75:32666/ai/room/ocr' [POST]>
+2021-03-18 10:00:04,747 - root - INFO - json_data 
+2021-03-18 10:00:04,748 - root - INFO - Decode request image and save !
+2021-03-18 10:00:04,750 - root - INFO - predict image
+2021-03-18 10:00:04,971 - root - INFO - Extract red region num is 31Â´É½ÄÏÂ·ÔÀÄÏÐÂ´å
+2021-03-18 10:00:04,971 - root - INFO - result {'code': 'E000', 'success': True, 'message': 'success', 'data': {'content': '31Â´É½ÄÏÂ·ÔÀÄÏÐÂ´å'}}
+2021-03-18 10:00:04,971 - werkzeug - INFO - 10.74.150.75 - - [18/Mar/2021 10:00:04] "[37mPOST /ai/room/ocr HTTP/1.1[0m" 200 -
+2021-03-18 10:01:26,681 - root - INFO - Get the request <Request 'http://10.74.150.75:32666/ai/room/ocr' [POST]>
+2021-03-18 10:01:26,681 - root - INFO - json_data 
+2021-03-18 10:01:26,683 - root - INFO - Decode request image and save !
+2021-03-18 10:01:26,688 - root - INFO - predict image
+2021-03-18 10:01:27,085 - root - INFO - Extract red region num is Ä³ÏØÄ³Ä³ÕòÈÙÖÝÂ·46ºÅ¸½1-701
+2021-03-18 10:01:27,086 - root - INFO - result {'code': 'E000', 'success': True, 'message': 'success', 'data': {'content': 'Ä³ÏØÄ³Ä³ÕòÈÙÖÝÂ·46ºÅ¸½1-701'}}
+2021-03-18 10:01:27,086 - werkzeug - INFO - 10.74.150.75 - - [18/Mar/2021 10:01:27] "[37mPOST /ai/room/ocr HTTP/1.1[0m" 200 -
+2021-03-18 10:02:37,149 - root - INFO - Get the request <Request 'http://10.74.150.75:32666/ai/room/ocr' [POST]>
+2021-03-18 10:02:37,150 - root - INFO - json_data 
+2021-03-18 10:02:37,154 - root - INFO - Decode request image and save !
+2021-03-18 10:02:37,170 - root - INFO - predict image
+2021-03-18 10:02:37,291 - root - INFO - Extract red region num is 10¶°¶þµ¥Ôª
+2021-03-18 10:02:37,291 - root - INFO - result {'code': 'E000', 'success': True, 'message': 'success', 'data': {'content': '10¶°¶þµ¥Ôª'}}
+2021-03-18 10:02:37,292 - werkzeug - INFO - 10.74.150.75 - - [18/Mar/2021 10:02:37] "[37mPOST /ai/room/ocr HTTP/1.1[0m" 200 -
+2021-03-18 10:02:51,344 - root - INFO - Get the request <Request 'http://10.74.150.75:32666/ai/room/ocr' [POST]>
+2021-03-18 10:02:51,344 - root - INFO - json_data 
+2021-03-18 10:02:51,345 - root - INFO - Decode request image and save !
+2021-03-18 10:02:51,347 - root - INFO - predict image
+2021-03-18 10:02:51,905 - root - INFO - Extract red region num is Ö¯½õÏïHIJINXIAN2ºÅ¸½3ºÅ
+2021-03-18 10:02:51,905 - root - INFO - result {'code': 'E000', 'success': True, 'message': 'success', 'data': {'content': 'Ö¯½õÏïHIJINXIAN2ºÅ¸½3ºÅ'}}
+2021-03-18 10:02:51,905 - werkzeug - INFO - 10.74.150.75 - - [18/Mar/2021 10:02:51] "[37mPOST /ai/room/ocr HTTP/1.1[0m" 200 -
+2021-03-18 10:12:01,841 - werkzeug - INFO -  * Running on http://0.0.0.0:32666/ (Press CTRL+C to quit)
+2021-03-18 10:12:05,715 - root - INFO - Get the request <Request 'http://10.74.150.75:32666/ai/room/ocr' [POST]>
+2021-03-18 10:12:05,716 - root - INFO - json_data 
+2021-03-18 10:12:05,738 - root - INFO - Decode request image and save !
+2021-03-18 10:12:05,743 - root - INFO - predict image
+2021-03-18 10:12:06,488 - root - INFO - Extract red region num is Ö¯½õÏïHIJINXIAN2ºÅ¸½3ºÅ
+2021-03-18 10:12:06,488 - root - INFO - result {'code': 'E000', 'success': True, 'message': 'success', 'data': {'content': 'Ö¯½õÏïHIJINXIAN2ºÅ¸½3ºÅ'}}
+2021-03-18 10:12:06,489 - werkzeug - INFO - 10.74.150.75 - - [18/Mar/2021 10:12:06] "[37mPOST /ai/room/ocr HTTP/1.1[0m" 200 -

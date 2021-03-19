@@ -1,0 +1,18 @@
+stages:
+- name: build
+  steps:
+  - publishImageConfig:
+      dockerfilePath: ./Dockerfile
+      buildContext: .
+      tag: 'ai-ocr/room-number-ocr:${CICD_GIT_COMMIT}.${CICD_GIT_BRANCH}.${CICD_EXECUTION_SEQUENCE}  '
+      pushRemote: true
+      registry: 172.16.11.205:8001
+    env:
+      PLUGIN_DEBUG: "true"
+      PLUGIN_INSECURE: "true"
+- name: deploy
+  steps:
+  - applyYamlConfig:
+      path: ./deployment.yaml
+timeout: 60
+notification: {}

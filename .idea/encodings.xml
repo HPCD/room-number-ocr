@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/idcard_res.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/log/qa_ocr" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/log/qa_ocr.2020-10-23_17-57.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/log/qa_ocr.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ai/ocr_paddle/inference/ch_ppocr_server_v2.0_rec_infer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ai/ocr_paddle/utility-new.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ai/text_recognizer/ppocr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ai/text_recognizer/predict_rec.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ai/text_recognizer/utility.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/bankcard_num/rec_num" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/car_num_detect/dete_car_num.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/database/dbconfig.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/database/dbutil.py" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
